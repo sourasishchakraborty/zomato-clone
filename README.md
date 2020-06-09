@@ -1,5 +1,5 @@
 # zomato-clone
-zomato clone website
+Online Food delivery website
 
 ## Objective:
 To make a full fledged online food delivery website using php and mysql

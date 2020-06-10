@@ -6,9 +6,9 @@ To make a full fledged online food delivery website using php and mysql
 
 ## Technologies used:
 ### Front-end: 
-HTML,CSS,Bootstrap,Javascript, jQuery
+HTML,CSS,Bootstrap,JavaScript, jQuery
 ### Back-end: 
-PHP,Mysql
+PHP,Mysql,JavaScript
 
 ## Work-flow:
 ### User:

@@ -32,5 +32,5 @@ This project is still under process. Some additional functionality/features are 
 ![Screenshot (202)](https://user-images.githubusercontent.com/64964968/84169358-2a512a00-aa96-11ea-96cc-09c8750c752d.png)
 ![Screenshot (203)](https://user-images.githubusercontent.com/64964968/84169373-2d4c1a80-aa96-11ea-9bae-71116be443d7.png)
 ![Screenshot (204)](https://user-images.githubusercontent.com/64964968/84169382-2f15de00-aa96-11ea-92b3-7d2d80330354.png)
-![Screenshot (205)](https://user-images.githubusercontent.com/64964968/84170930-d5aeae80-aa97-11ea-8cfe-3d204f2b11bc.png)
+
 

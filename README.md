@@ -6,7 +6,7 @@ To make a full fledged online food delivery website using php and mysql
 
 ## Technologies used:
 ### Front-end: 
-HTML,CSS,BOOTSTRAP,Javascript, jQuery
+HTML,CSS,Bootstrap,Javascript, jQuery
 ### Back-end: 
 PHP,Mysql
 
@@ -27,5 +27,8 @@ Admin can register as a restaurant, can add or remove dishes, can see the pendin
 ![Screenshot (203)](https://user-images.githubusercontent.com/64964968/84169373-2d4c1a80-aa96-11ea-9bae-71116be443d7.png)
 ![Screenshot (204)](https://user-images.githubusercontent.com/64964968/84169382-2f15de00-aa96-11ea-92b3-7d2d80330354.png)
 ![Screenshot (205)](https://user-images.githubusercontent.com/64964968/84170930-d5aeae80-aa97-11ea-8cfe-3d204f2b11bc.png)
+## Acknowledgement:
+Mr. Nitish Singh has guided and contributed to this project as a mentor.
 
-
+## Project status:
+This project is still under process. Some additional functionality/features are planned to be added to this project in the near future.
